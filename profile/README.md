@@ -1,2 +1,2 @@
 # 🧠 n0
-> _Simplifying dev workflows, one repo at a time._
+> _Defying traditional tech._
